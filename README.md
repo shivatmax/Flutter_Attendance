@@ -1,23 +1,18 @@
-# attendance_Flutter
+# NFSU_Attendance_Flutter
 
+I created an Attendance app that enables teachers to track attendance by updating a Google Sheet through API integration and Backend with Firebase.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+## SPLASH SCREEN
+https://github.com/shivatmax/Flutter_Attendance/assets/115219800/612616cf-3014-493b-8b5d-068a4b0f590d
+## FRONT UI
 <img src="https://github.com/shivatmax/Flutter_Attendance/blob/master/Screenshot_20230803_052243.png" width="300" height="600" />
-
+## SELECT SUBJECT,COURSE,TIME
 <img src="https://github.com/shivatmax/Flutter_Attendance/blob/master/Screenshot_20230803_052325.png" width="300" height="600" />
-
+## SELECT MODE
+### STYLED PDF
 <img src="https://github.com/shivatmax/Flutter_Attendance/blob/master/Screenshot_20230803_052434.png" width="300" height="600" />
+### SPREADSHEET With GOOGLE SHEET API
+![Screenshot 2023-09-18 192220](https://github.com/shivatmax/Flutter_Attendance/assets/115219800/7ad3c5c0-f307-4af7-93c2-bd76ce174a4a)
+
+
+
